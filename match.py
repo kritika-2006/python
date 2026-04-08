@@ -13,7 +13,7 @@ match a:
     case _ if a!=80:
         print(a,"is not 80")
     case _:
-        print(x)
+        print(a)
 
 
 
