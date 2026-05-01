@@ -1,13 +1,10 @@
-x = 4
-print(x)
+x = 4 # global variable
 
-def hello():
+def my_function():
+    global x
     x = 5
-    y = 1
-    print(f"The local x is {x}")
-    print("Hello kritika")
+    y = 1 # local variable
+    print(y)
 
-print(f"The global x is {x}")
-hello()
-x = 5
-print(f"The global x is {x}")
+my_function()
+print(x)
