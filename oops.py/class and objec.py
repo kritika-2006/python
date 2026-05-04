@@ -10,6 +10,7 @@ class Person:
 
 a = Person()
 b = Person()
+c = Person()
 # object
 a.name = "ritika"
 a.occupation = "Software Engineer"
@@ -19,4 +20,5 @@ b.occupation = "HR"
 
 a.info()
 b.info()
+c.info()
 
