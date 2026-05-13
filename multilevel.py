@@ -7,6 +7,7 @@ class B(A):
 class C(B):
     def ShowC(self):
         print("C")
+        # object
 obj = C()
 obj.ShowA()
 obj.ShowB()
