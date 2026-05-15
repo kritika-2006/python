@@ -5,6 +5,7 @@ class A:
 class B(A):
     def ShowB(self):
         print("B")
+        # C is inherit from B
 class C(B):
     def ShowC(self):
         print("C")
