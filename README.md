@@ -1,2 +1,2 @@
   # 100 Days Of Python code....   
-   # Coding means  consistency 
+   # Coding means  consistency     
