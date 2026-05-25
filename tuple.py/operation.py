@@ -10,7 +10,7 @@ print(tup)
 
 m = (0,3,5,89,67,2)
 res = m.count(2)
-r = len(m)
+r = len(m) # length
 print(len(m))
 print("count of 2 in m is:",res)
 # slicing
