@@ -8,7 +8,7 @@ def func1():
  except:
     print("Some error occured")
     return 0
-
+# finally always executed whether the exception may be or not
  finally:
     print("I am always executed")
 
