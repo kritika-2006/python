@@ -1,2 +1,4 @@
 print("Hello")
 print(3)
+print("kritika")
+print("Hi, Anybody is here")
