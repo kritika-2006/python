@@ -1,6 +1,7 @@
 class A:
     def showA(self):
         print("A")
+        # B is inherit from A
 class B:
     def showB(self):
         print("B")
