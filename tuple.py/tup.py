@@ -9,5 +9,5 @@ if "kritika" in tup:
     print("Yes,it is present")
 
 # slicing
-tup2 = tup[1:4]
+tup2 = tup[1:4] # slicing
 print(tup2)
