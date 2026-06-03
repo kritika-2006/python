@@ -16,6 +16,7 @@ class Office:
 
 a = Office("Kritika" , "Cyber Security Analyst")
 b = Office("Suman","HR")
+# object
 a.info()
 b.info()
         
