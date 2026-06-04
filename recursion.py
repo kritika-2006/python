@@ -10,3 +10,4 @@ print(factorial(5))
 # 5 * 4 * 3 * factorial(2)
 # 5 * 4 * 3 * 2 * factorial(1)
 # 5 * 4 * 3 * 2 * 1
+
