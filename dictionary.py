@@ -1,4 +1,5 @@
 # combination of key- values pair
+# dictionary is non mutable
 dict = {
     1 : "kritika",
     "city" : "Sonipat"

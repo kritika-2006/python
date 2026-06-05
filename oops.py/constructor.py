@@ -15,7 +15,8 @@ class Office:
          print(f"{self.name} is a {self.occ}")
 
 a = Office("Kritika" , "Cyber Security Analyst")
-b = Office("Sunita","HR")
+b = Office("Suman","HR")
+# object
 a.info()
 b.info()
         
