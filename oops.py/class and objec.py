@@ -21,4 +21,3 @@ b.occupation = "HR"
 a.info()
 b.info()
 c.info()
-
