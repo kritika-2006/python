@@ -22,3 +22,4 @@ print(l[1:3]) # length - 2
 print(l)
 print(l[1:8])
 print(l[1:8:3]) # 3 baar jump hoga 
+
