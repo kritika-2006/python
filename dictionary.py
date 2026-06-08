@@ -14,3 +14,4 @@ print(dict.get("name")) # show none
 # all values iterate
 for key in dict.keys():
     print(f"The value corresponding to the key {key} is {dict[key]}")
+    
