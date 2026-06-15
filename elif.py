@@ -5,4 +5,4 @@ if( budget - applePrice > 50):
 elif(budget - applePrice > 70):
     print("Its okay you can buy.")
 else:
-    print("Do not add Apples to the cart.")
+    print("Do not add Apples to the cart")
