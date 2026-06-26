@@ -1,0 +1,4 @@
+Log: System running normally.
+Log: New login detected from user root.
+Log: System running normally.
+Log: New login detected from user root.
