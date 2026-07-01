@@ -1,0 +1,13 @@
+class vehicle:
+    def start(self):
+        print("Vehicle Started")
+
+class car(vehicle):
+    def start(self):
+        print("Car started with a key")
+
+    def honk(self):
+        print("Beep Beep")
+
+c1 = car()
+c1.start()
