@@ -8,3 +8,4 @@ with open ("activity_logs.txt","r") as file:
     print(file.read())
 
 
+
