@@ -6,6 +6,3 @@ with open ("activity_logs.txt","a") as file:
 
 with open ("activity_logs.txt","r") as file:
     print(file.read())
-
-
-
