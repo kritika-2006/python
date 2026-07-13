@@ -4,7 +4,9 @@ class PasswordManager:
     
     def add_password(self,account_name,password):
         self.passwords[account_name.lower()] = password
-        print("Password saved successfully")
+        with open ("password.txt","a") as file:
+            file.write(f"{account_name}:{password}\n")
+            print("Password saved successfully")
     
     def get_password(self,account_name):
         name = account_name.lower()
